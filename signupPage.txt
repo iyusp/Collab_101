@@ -1,0 +1,10 @@
+Hello user!
+Duty is calling you!
+
+Tell us your awesome name: name
+Tell us what should we call you: username
+Tell us where should we send you the calls for glory: email id
+
+Keep a code of allegiance to prevent imposters: password
+
+Thats it! We are ready!

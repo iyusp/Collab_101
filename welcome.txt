@@ -1,0 +1,5 @@
+Welcome to our application!
+
+In this is an interactive application.
+
+Sign up to not miss the fun.
